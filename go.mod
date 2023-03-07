@@ -43,9 +43,9 @@ require (
 	github.com/terraform-providers/terraform-provider-archive v1.3.0
 	github.com/terraform-providers/terraform-provider-http v1.2.0
 	github.com/zclconf/go-cty v1.8.4
-	golang.org/x/crypto v0.0.0-20210506145944-38f3c27a63bf
-	golang.org/x/mod v0.4.2
-	golang.org/x/net v0.0.0-20210505214959-0714010a04ed
+	golang.org/x/crypto v0.1.0
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4
+	golang.org/x/net v0.1.0
 	google.golang.org/grpc v1.37.0
 )
 
